@@ -1,0 +1,7 @@
+.menu {
+    position: absolute;
+    background-color: aqua;
+}
+.content {
+    display: none;
+}
